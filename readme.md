@@ -13,12 +13,13 @@ A frontend replica of the Cogniq AI homepage built using **HTML, CSS, and JavaSc
 
 ## 📂 Project Structure
 
+```
 /project
 │── index.html
 │── style.css
 │── script.js
 │── /images
-
+```
 
 ## ▶️ How to Run
 1. Download or clone the repository  
